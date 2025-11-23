@@ -63,22 +63,6 @@ The repository is organized so that **documentation**, **development code**, **b
 ```text
 .
 ├── 00_Documentation/          # TCC documents and images
-│   └── Imagens/
-│       ├── aesfluxo.png
-│       ├── Arq-sec-1.pdf
-│       ├── Arquitetura.jpg
-│       ├── Arquitetura.pdf
-│       ├── Diagrama-energia.jpg
-│       ├── Diagrama-memória.jpg
-│       ├── Diagrama-tempo.jpg
-│       ├── energias.png
-│       ├── Fluxograma-alg-arq.jpg
-│       ├── INA226.jpg
-│       ├── keyexchange.png
-│       ├── nomes.txt
-│       ├── rfid-circuito.jpg
-│       ├── stack.png
-│       └── tempos.png
 ├── 01_Referenciais/           # Reference papers and related work
 ├── 02_Development/            # Implementation of the proposed architecture
 ├── 03_Benchmark/              # Benchmark code for ML-KEM, RSA, ECDH
@@ -123,7 +107,7 @@ Once the shared secret is established, it is expanded into:
 
 The overall cryptographic data flow of the secure channel is illustrated in:
 
-![AES and channel flow](00_Documentation/Imagens/aesfluxo.png)
+![AES and channel flow](00_Documentation/Imagens/Fluxograma-alg-arq.jpg)
 
 Key characteristics:
 
@@ -189,15 +173,12 @@ For each algorithm and security level, the benchmarks measure:
 The following images summarize part of the results:
 
 - Execution time profiles:
-  - ![Time diagram](00_Documentation/Imagens/Diagrama-tempo.jpg)
   - ![Time plots](00_Documentation/Imagens/tempos.png)
 
 - Stack usage:
-  - ![Stack diagram](00_Documentation/Imagens/Diagrama-memória.jpg)
   - ![Stack plots](00_Documentation/Imagens/stack.png)
 
 - Energy consumption:
-  - ![Energy diagram](00_Documentation/Imagens/Diagrama-energia.jpg)
   - ![Energy plots](00_Documentation/Imagens/energias.png)
 
 ### Measurement Setup
