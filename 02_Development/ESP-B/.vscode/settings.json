@@ -1,0 +1,8 @@
+{
+    "idf.flashType": "UART",
+    "idf.port": "/dev/ttyUSB1",
+    "files.associations": {
+        "cstdint": "c",
+        "compare": "c"
+    }
+}

@@ -1,0 +1,13 @@
+Livros
+
+Cybersecurity Fundamentals A Real-World Perspective (Kutub Thakur e Al-Sakib Khan Pathan)
+
+Introduction to Modern Cryptography (Jonathan Katz e Yehuda Lindell)
+
+Cryptography and Network Security: Principles and Practice (William Stallings)
+
+Handbook of Applied Cryptography (Alfred J. Menezes et. al)
+
+Embedded Systems Security: Practical Methods for Safe and Secure Software and Systems Development (David Kleidermacher and Mike Kleidermacher)
+
+

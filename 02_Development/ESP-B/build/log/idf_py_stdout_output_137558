@@ -1,0 +1,10 @@
+[0;32mI (249) ESP-B: Waiting for communication...
+[0;32mI (27409) ESP-B: Communication established!
+[0;32mI (33199) ESP-B: Secret obtained through MLKEM[0m
+[0;32mI (33199) ESP-B: SS: DD 0C 5A A8 67 C3 0F 50 71 03 5C 4D D0 35 DA 58 5F A3 F8 F2 AE A9 EC EF 76 43 89 E4 E2 05 44 D3 
+[0;32mI (37199) ESP-B: Keys derived from the secret using HKDF[0m
+[0;32mI (37199) ESP-B: AES_KEY: AE 26 26 19 D1 22 84 00 67 1B 2F 6C 9C BD 73 66 [0m
+[0;32mI (37199) ESP-B: HMAC_KEY: E6 79 51 39 F5 01 A4 CA 38 DE DE 85 D4 ED 88 4A 
+[0;32mI (49579) ESP-B: Data received via UART
+[0;32mI (53579) ESP-B: HMAC verification success
+[0;32mI (57579) ESP-B: Decrypted message: TCC-PQC[0m

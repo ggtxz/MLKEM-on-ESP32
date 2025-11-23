@@ -1,0 +1,5 @@
+# sdkconfig.defaults
+CONFIG_MBEDTLS_HARDWARE_MPI=y
+CONFIG_MBEDTLS_LARGE_KEY_SOFTWARE_MPI=y     # fallback em software p/ chaves grandes
+CONFIG_MBEDTLS_CUSTOM_CONFIG=y
+CONFIG_MBEDTLS_CUSTOM_CONFIG_FILE="mbedtls_user_config.h"

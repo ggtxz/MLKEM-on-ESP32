@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/ggtxz/TCC/04_Sandbox/energy_ecdh/build/CMakeFiles/bootloader
+/home/ggtxz/TCC/04_Sandbox/energy_ecdh/build/CMakeFiles/bootloader.rule
+/home/ggtxz/TCC/04_Sandbox/energy_ecdh/build/CMakeFiles/bootloader-complete.rule
+/home/ggtxz/TCC/04_Sandbox/energy_ecdh/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/ggtxz/TCC/04_Sandbox/energy_ecdh/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/ggtxz/TCC/04_Sandbox/energy_ecdh/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/ggtxz/TCC/04_Sandbox/energy_ecdh/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/ggtxz/TCC/04_Sandbox/energy_ecdh/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/ggtxz/TCC/04_Sandbox/energy_ecdh/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/ggtxz/TCC/04_Sandbox/energy_ecdh/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

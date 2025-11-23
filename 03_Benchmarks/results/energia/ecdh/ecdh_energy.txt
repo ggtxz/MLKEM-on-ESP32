@@ -1,0 +1,4 @@
+Curva	ΔP (mW)	ms/iter	Energia/iter (mJ)
+P-256 (média de 2 runs)	75.175	530.902	39.911
+P-384 (média de 2 runs)	101.845	863.639	87.957
+P-521	113.196	1451.874	164.346

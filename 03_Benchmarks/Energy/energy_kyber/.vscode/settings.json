@@ -1,0 +1,19 @@
+{
+  "C_Cpp.errorSquiggles": "disabled",
+  "cmake.sourceDirectory": "/home/ggtxz/TCC/04_Sandbox/energy_kyber",
+  "idf.port": "/dev/ttyUSB0",
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32"
+  },
+  "clangd.path": "/home/ggtxz/.espressif/tools/esp-clang/esp-19.1.2_20250312/esp-clang/bin/clangd",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=/home/ggtxz/.espressif/tools/xtensa-esp-elf/esp-15.2.0_20250920/xtensa-esp-elf/bin/xtensa-esp32-elf-gcc",
+    "--compile-commands-dir=/home/ggtxz/TCC/04_Sandbox/cru/build"
+],
+"idf.flashType": "UART",
+"files.associations": {
+  "cru.h": "c",
+  "coins.h": "c"
+}
+}

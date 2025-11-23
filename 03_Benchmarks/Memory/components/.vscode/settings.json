@@ -1,0 +1,22 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "compare": "c",
+        "uart.h": "c",
+        "encryption.h": "c",
+        "stdbool.h": "c",
+        "defines.h": "c",
+        "common.h": "c",
+        "stdint.h": "c",
+        "params.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "keys.h": "c",
+        "kem.h": "c",
+        "verify.h": "c",
+        "stddef.h": "c",
+        "symmetric.h": "c",
+        "fips202.h": "c"
+    },
+    "cmake.sourceDirectory": "/home/ggtxz/TCC/04_Sandbox/components/comm"
+}

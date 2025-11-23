@@ -1,0 +1,12 @@
+[0;32mI (25829) ESP-A: Read success, message: TCC-PQC
+[0;32mI (30039) ESP-A: UART Handshake successful
+[0;32mI (36199) ESP-A: Secret obtained through MLKEM[0m
+[0;32mI (36199) ESP-A: SS: DD 0C 5A A8 67 C3 0F 50 71 03 5C 4D D0 35 DA 58 5F A3 F8 F2 AE A9 EC EF 76 43 89 E4 E2 05 44 D3 
+[0;32mI (40199) ESP-A: Keys derived from the secret using HKDF[0m
+[0;32mI (40199) ESP-A: AES_KEY: AE 26 26 19 D1 22 84 00 67 1B 2F 6C 9C BD 73 66 [0m
+[0;32mI (40199) ESP-A: HMAC_KEY: E6 79 51 39 F5 01 A4 CA 38 DE DE 85 D4 ED 88 4A 
+[0;32mI (44209) ESP-A: Encrypted message using AES[0m
+[0;32mI (44209) ESP-A: CT: 5A 5B 7B 3E 3A E3 74 
+[0;32mI (48209) ESP-A: Message signed via HMAC-SHA256[0m
+[0;32mI (48209) ESP-A: HMAC: 72 7F D9 C8 E4 52 3B F1 D5 51 CA 81 14 DF BD F8 C6 15 98 42 D3 6F 0C 0A E7 8E 54 2C 43 C6 D9 EC 
+[0;32mI (52209) ESP-A: Data sent over UART[0m

@@ -1,0 +1,10 @@
+[0;32mI (249) ESP-B: dummie[0m
+[0;32mI (249) ESP-B: 
+[0;32mI (32329) ESP-B: Communication established!
+[0;32mI (38059) ESP-B: Secret obtained through MLKEM[0m
+[0;32mI (38059) ESP-B: SS: 56 19 D6 2B 70 95 20 4C 34 E7 1E B4 1B C0 00 7C C5 34 BE 5F B6 2F EB 28 8E AA 42 1A 38 43 EF 7B 
+[0;32mI (42059) ESP-B: Keys derived from the secret using HKDF[0m
+[0;32mI (42059) ESP-B: AES_KEY: 26 31 AA 45 6F 73 AA 9D 34 05 4F 02 06 6A 73 FA [0m
+[0;32mI (42059) ESP-B: HMAC_KEY: BE F9 DD A4 7F 2B C0 BA 73 F8 74 FE 20 3F 4D 2B 
+[0;32mI (249) ESP-B: dummie[0m
+[0;32mI (249) ESP-B: 

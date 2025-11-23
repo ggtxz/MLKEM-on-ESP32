@@ -1,0 +1,31 @@
+[0;32mI (249) ESP-B: 
+[0;32mI (249) ESP-B: 
+[0;32mI (20069) ESP-B: Communication established!
+[0;32mI (25769) ESP-B: Secret obtained through MLKEM[0m
+[0;32mI (25769) ESP-B: SS: 9A B4 5F 5D 4D 22 C3 34 E6 1A 2E 5F 3A EC 67 55 91 46 31 EF 2D 7A 15 A3 F0 A6 0D 63 19 30 93 7A 
+[0;32mI (29769) ESP-B: Keys derived from the secret using HKDF[0m
+[0;32mI (29769) ESP-B: AES_KEY: B0 15 9D 0B DD 38 E5 12 32 B3 5D 5B DE 36 E5 3D [0m
+[0;32mI (29769) ESP-B: HMAC_KEY: E4 1D B0 75 41 09 1C 50 1E C3 D9 C8 28 6D AC 84 
+[0;32mI (42149) ESP-B: Data received via UART
+[0;32mI (46149) ESP-B: HMAC verification success
+[0;32mI (50149) ESP-B: Decrypted message: TCC-PQC[0m
+[0;32mI (249) ESP-B: 
+[0;32mI (7249) ESP-B: Communication established!
+[0;32mI (12989) ESP-B: Secret obtained through MLKEM[0m
+[0;32mI (12989) ESP-B: SS: 3B 2F F7 9B 1D 6A 4E 40 F3 50 4B F1 53 3C 1E 9F BF 18 F3 49 02 6C 9D CC 69 31 4C 24 B7 12 E3 E5 
+[0;32mI (16989) ESP-B: Keys derived from the secret using HKDF[0m
+[0;32mI (16989) ESP-B: AES_KEY: A2 AA 2B D0 8B 83 7B E9 E5 72 D1 86 6D 9B F8 90 [0m
+[0;32mI (16989) ESP-B: HMAC_KEY: 65 20 32 45 82 1E 58 E7 38 2A EC DA CE F1 67 37 
+[0;32mI (29479) ESP-B: Data received via UART
+[0;32mI (33479) ESP-B: HMAC verification success
+[0;32mI (37479) ESP-B: Decrypted message: TCC-PQC[0m
+[0;32mI (250) ESP-B: 
+[0;32mI (22930) ESP-B: Communication established!
+[0;32mI (28680) ESP-B: Secret obtained through MLKEM[0m
+[0;32mI (28680) ESP-B: SS: EC 61 91 BF B4 6F B9 A8 83 96 47 44 38 D9 B3 1A D8 06 EE 92 D1 FA 7C 1A B7 97 EC 8C F1 F9 B5 12 
+[0;32mI (32680) ESP-B: Keys derived from the secret using HKDF[0m
+[0;32mI (32680) ESP-B: AES_KEY: 7C 7B D3 76 C8 51 7A 83 DD 9C E2 A4 48 18 18 62 [0m
+[0;32mI (32680) ESP-B: HMAC_KEY: 67 CF 69 61 DE 22 58 26 CB 80 E3 D2 F0 AC 94 9A 
+[0;32mI (45170) ESP-B: Data received via UART
+[0;32mI (49170) ESP-B: HMAC verification success
+[0;32mI (53170) ESP-B: Decrypted message: TCC-PQC[0m
